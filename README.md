@@ -21,6 +21,7 @@
      <img align="center" alt="css" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
      <img align="center" alt="css" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
      <img align="center" alt="css" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/Powerbi-3776AB?style=for-the-badge&logo=powerbi&logoColor=white" />
 </div><br/>
 
 Apaixonado por autocuidado e tecnologia
