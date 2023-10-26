@@ -3,7 +3,7 @@
 
 [![Blog](https://img.shields.io/website?label=renatodosanjos&style=for-the-badge&url=https://renatodosanjos.com/)](https://renatodosanjos.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCctIYk8dt9qGWNPGJf0tfog)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/renatodosanjoss)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renatodosanjoss)
 
 ![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnanjos&show_icons=true&theme=radical)
 
